@@ -1,0 +1,1 @@
+# swiggy-outlet-data-anaylsis
