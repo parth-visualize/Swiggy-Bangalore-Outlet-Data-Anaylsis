@@ -9,9 +9,9 @@ An end-to-end Exploratory Data Analysis (EDA) project on Swiggy food outlet data
 ```
 swiggy-outlet-data-analysis/
 │
-├── Swiggy_Bangalore_Outlet_Details.csv          # Raw dataset (118 outlets)
-├── full_project.ipynb                           # Jupyter Notebook — full EDA
-├── SWIGGY_BANGALORE_OUTLET_DATA_ANALYSIS.pptx  # Project presentation deck
+├── Swiggy Bangalore Outlet Details.csv          # Raw dataset (118 outlets)
+├── Swiggy Bangalore Analysis.ipynb             # Jupyter Notebook — full EDA
+├── Swiggy Bangalore PPT.pptx                   # Project presentation deck
 └── README.md                                    # Project documentation
 ```
 
@@ -136,7 +136,7 @@ jupyter notebook full_project.ipynb
 ## 📊 Presentation
 
 A PowerPoint summary of the full analysis is available in:  
-📄 `SWIGGY_BANGALORE_OUTLET_DATA_ANALYSIS.pptx`
+📄 `Swiggy Bangalore PPT.pptx`
 
 ---
 
