@@ -116,9 +116,9 @@ pip install pandas numpy matplotlib seaborn plotly jupyter
 
 ### Run the Notebook
 ```bash
-git clone https://github.com/parth-visualize/swiggy-outlet-data-anaylsis.git
-cd swiggy-outlet-data-anaylsis
-jupyter notebook full_project.ipynb
+git clone https://github.com/parth-visualize/Swiggy-Bangalore-Outlet-Data-Anaylsis.git
+cd Swiggy-Bangalore-Outlet-Data-Anaylsis
+jupyter notebook Swiggy Bangalore Analysis.ipynb
 ```
 
 ---
