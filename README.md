@@ -2,6 +2,8 @@
 
 An end-to-end Exploratory Data Analysis (EDA) project on Swiggy food outlet data from **Bangalore**. The project uncovers insights about restaurant ratings, pricing, cuisine distribution, and area-wise trends across key Bangalore localities — using Python, Pandas, Seaborn, and Plotly.
 
+<img src="Screenshot 2026-03-31 214310.png" alt="Alt text for the image" width="desired_width">
+
 ---
 
 ## 📁 Project Structure
