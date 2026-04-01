@@ -143,6 +143,5 @@ A PowerPoint summary of the full analysis is available in:
 ## 🙋‍♂️ Author
 
 **Parth**  
-🔗 [GitHub](https://github.com/parth-visualize)
 
 ---
